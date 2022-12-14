@@ -1,0 +1,9 @@
+apar a, b
+ia a, b
+
+daca (a > b) {
+	urla "$a bcd"
+}
+altfel {
+	urla "$b"
+}
